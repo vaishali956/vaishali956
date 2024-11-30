@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning development
 - 💞️ I’m looking to collaborate on youtube
-- 📫 How to reach me wuth github
+- 📫 How to reach me with github
 - 😄 Pronouns: vaishu
 - ⚡ Fun fact: extrovert
 
