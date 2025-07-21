@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaishali956
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning development
+- 🌱 I’m currently learning data structure & algorithms(DSA)
 - 💞️ I’m looking to collaborate on youtube
 - 📫 How to reach me with github
 - 😄 Pronouns: vaishu
