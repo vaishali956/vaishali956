@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on youtube
 - 📫 How to reach me with github
 - 😄 Pronouns: vaishu
-- ⚡ Fun fact: extrovert
+- ⚡ Fun fact: ambivert
 
 <!---
 vaishali956/vaishali956 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
