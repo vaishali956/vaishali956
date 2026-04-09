@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishali Patel</h1>
 <h3 align="center">Aspiring Full-Stack Developer passionate about building secure,high-performance, and user-focused web applications.</h3>
 
-- 🔭 I’m currently working on **Infit**
+- 🔭 I’m currently working on **FITARENA**
 
 - 🌱 I’m currently learning **DSA(Data structure & algorithms)**
-
-- 🤝 I’m looking for help with **Regarding my Infit project, i'm looking for a motivated backend developer.**
 
 - 💬 Ask me about **Frontend developer**
 
